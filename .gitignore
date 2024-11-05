@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 train2017/
 
+=======
+>>>>>>> 5956129d9b7895b8bab7f50622d10e75df138780
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
